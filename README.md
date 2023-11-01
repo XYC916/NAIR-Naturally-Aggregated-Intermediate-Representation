@@ -11,6 +11,7 @@ It achieves more than doubled performance over the state-of-the-art work.
 ![image](https://github.com/XYC916/NAIR-Naturally-Aggregated-Intermediate-Representation/assets/103045083/4037beaf-b0a6-4ed7-a192-d51dad984c9f)
 
 Require:
+
 python≥3.6
 
 pytorch≥1.10
